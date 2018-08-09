@@ -34,7 +34,7 @@
   <description>JBossWS WildFly 13.0.0.Final Integration Parent</description>
   <groupId>org.jboss.ws</groupId>
   <artifactId>jbossws-wildfly1300-parent</artifactId>
-  <version>5.2.2-SNAPSHOT</version>
+  <version>5.2.2.Final</version>
   <packaging>pom</packaging>
 
   <scm>
